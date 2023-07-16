@@ -1,1 +1,47 @@
-/* Write your CSS here! */
+
+body {
+	width: 80%;
+	max-width: 800px;
+	margin:8px auto;
+	background-color: lightgray;
+	font-size: 12px;
+    font-family:Calibri;
+    width: 800px;
+    padding: 25px;
+    display: block;
+    box-sizing: border-box;
+    
+     
+}
+
+h1 {
+    color: darkolivegreen;
+    text-align: center;
+    font-size: 18;
+}
+
+#mainheading {
+    color: red;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Use margin and padding, element, class, id */
+/*Use the element selector to give the <body> element a margin value of 8px and a display type of block.*/
+/*Give a heading on your page the id of mainHeading and use the id selector in styles.css to give it a color value of red*/
+/*Give a paragraph on your page the id of testP and a class name of funParagraph. Use the class selector in styles.css to give it a color value of green.*/
+
