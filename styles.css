@@ -14,17 +14,17 @@ h1 {
     color: darkolivegreen;
     text-align: center;
     font-size: 36px;
-    padding: 10px;
+    margin: top=200px, bottom=5px, right=5px;
 }
 
-#mainheading {
+#mainHeading {
     color: red;
     text-align: center;
     font-size: 48px;
     font-weight: bold;
-    background-color: seagreen;
+    background-color: lightseagreen;
     font-family: Geneva;
-    padding: top=70px, bottom=5px, right=5px; 
+    padding: 10px;
 }
 
 .section {
@@ -37,16 +37,6 @@ h1 {
 .funParagraph {
     color: green;
 }
-
-
-
-
-
-
-
-
-
-
 
 
 /*Use margin and padding, element, class, id */
