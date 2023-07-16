@@ -4,17 +4,17 @@ body {
 	margin:8px auto;
     display: block;
 	background-color: rgb(131, 218, 213);
-	font-size: 14px;
+	font-size: 16px;
     font-family:Calibri;
-    padding: 25px;
-   
+    text-align: center;
      
 }
 
 h1 {
     color: darkolivegreen;
     text-align: center;
-    font-size: 24px;
+    font-size: 36px;
+    padding: 10px;
 }
 
 #mainheading {
@@ -22,13 +22,22 @@ h1 {
     text-align: center;
     font-size: 48px;
     font-weight: bold;
+    background-color: seagreen;
+    font-family: Geneva;
+    padding: top=70px, bottom=5px, right=5px; 
 }
 
 .section {
     display: inline-block;
     text-align: center;
     font-size: 16px;
+    color: darkslategray;
 }
+
+.funParagraph {
+    color: green;
+}
+
 
 
 
